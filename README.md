@@ -33,7 +33,7 @@ A feladatot kétféle formában kell beadnod:
 
 #### A feladat
 
-A feladat leírását ebben a repoban, a [WS2024_HU_TP_S17_R1_EN_1_0.pdf](https://github.com/skillsithu/es2023-s17-hu-r1/blob/master/WS2024_HU_TP_S17_R1_EN_1_0.pdf) fájlban található.
+A feladat leírását ebben a repoban, a [WS2024_HU_TP_S17_R1_EN_1_0.pdf](https://github.com/skillsit-hu/ws2024-s17-hu-r1/blob/master/WS2024_HU_TP_S17_R1_EN_1_0.pdf) fájlban található.
 
 #### Határidő
 
