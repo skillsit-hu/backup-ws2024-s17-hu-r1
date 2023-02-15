@@ -1,0 +1,380 @@
+[
+ {
+  "id": 1,
+  "distance": 7,
+  "startingLocation": "Rajt",
+  "arrivalLocation": "Aszófő",
+  "name": "NHKV"
+ },
+ {
+  "id": 2,
+  "distance": 4.5,
+  "startingLocation": "Aszófő",
+  "arrivalLocation": "Fövenyes",
+  "name": "MARKET"
+ },
+ {
+  "id": 3,
+  "distance": 4.5,
+  "startingLocation": "Fövenyes",
+  "arrivalLocation": "Balatonalakli",
+  "name": ""
+ },
+ {
+  "id": 4,
+  "distance": 3.7,
+  "startingLocation": "Balatonalakli",
+  "arrivalLocation": "Zánka Unk",
+  "name": "BOROTALCO "
+ },
+ {
+  "id": 5,
+  "distance": 2.9,
+  "startingLocation": "Zánka Unk",
+  "arrivalLocation": "Zánka",
+  "name": "SUZUKI"
+ },
+ {
+  "id": 6,
+  "distance": 3.7,
+  "startingLocation": "Zánka",
+  "arrivalLocation": "Balatonszepezd",
+  "name": "PRIMAVERA"
+ },
+ {
+  "id": 7,
+  "distance": 3.1,
+  "startingLocation": "Balatonszepezd",
+  "arrivalLocation": "Révfülöp kelet",
+  "name": "NICOFLEX"
+ },
+ {
+  "id": 8,
+  "distance": 1.8,
+  "startingLocation": "Révfülöp kelet",
+  "arrivalLocation": "Révfülöp nyugat",
+  "name": "OTP MOBIL"
+ },
+ {
+  "id": 9,
+  "distance": 5.3,
+  "startingLocation": "Révfülöp nyugat",
+  "arrivalLocation": "Ábrahámhegy ",
+  "name": "MEDVE SAJT"
+ },
+ {
+  "id": 10,
+  "distance": 3.1,
+  "startingLocation": "Ábrahámhegy ",
+  "arrivalLocation": "Badacsonyörs Varga pincészet",
+  "name": "VARGA"
+ },
+ {
+  "id": 11,
+  "distance": 5,
+  "startingLocation": "Badacsonyörs Varga pincészet",
+  "arrivalLocation": "Badacsony",
+  "name": "MOZGÁSVILÁG"
+ },
+ {
+  "id": 12,
+  "distance": 5,
+  "startingLocation": "Badacsony",
+  "arrivalLocation": "Badacsonytördemic",
+  "name": "KORONÁS CUKOR"
+ },
+ {
+  "id": 13,
+  "distance": 3.4,
+  "startingLocation": "Badacsonytördemic",
+  "arrivalLocation": "Szigliget",
+  "name": ""
+ },
+ {
+  "id": 14,
+  "distance": 7.6,
+  "startingLocation": "Szigliget",
+  "arrivalLocation": "Balatongyörök",
+  "name": "NN"
+ },
+ {
+  "id": 15,
+  "distance": 2.8,
+  "startingLocation": "Balatongyörök",
+  "arrivalLocation": "Balatongyörök 2",
+  "name": "SWISS"
+ },
+ {
+  "id": 16,
+  "distance": 3.4,
+  "startingLocation": "Balatongyörök 2",
+  "arrivalLocation": "Vonyarcvashegy",
+  "name": "BRIDGESTONE"
+ },
+ {
+  "id": 17,
+  "distance": 2.2,
+  "startingLocation": "Vonyarcvashegy",
+  "arrivalLocation": "Gyenesdiás",
+  "name": "GUKMIFLEX"
+ },
+ {
+  "id": 18,
+  "distance": 1.7,
+  "startingLocation": "Gyenesdiás",
+  "arrivalLocation": "Keszthely Bikás strand",
+  "name": "UNITED SHIPPING "
+ },
+ {
+  "id": 19,
+  "distance": 3.1,
+  "startingLocation": "Keszthely Bikás strand",
+  "arrivalLocation": "Keszthely",
+  "name": "TESCO"
+ },
+ {
+  "id": 20,
+  "distance": 4.8,
+  "startingLocation": "Keszthely",
+  "arrivalLocation": "Fenékpuszta",
+  "name": ""
+ },
+ {
+  "id": 21,
+  "distance": 4.3,
+  "startingLocation": "Fenékpuszta",
+  "arrivalLocation": "Balatonberény fogadó",
+  "name": "BALATONMAN TRAINING TEAM"
+ },
+ {
+  "id": 22,
+  "distance": 2.9,
+  "startingLocation": "Balatonberény fogadó",
+  "arrivalLocation": "Balatonberény",
+  "name": "SAUCONY "
+ },
+ {
+  "id": 23,
+  "distance": 3.8,
+  "startingLocation": "Balatonberény",
+  "arrivalLocation": "Balatonmáriafürdő nyugat",
+  "name": "SPIRIT HOTEL"
+ },
+ {
+  "id": 24,
+  "distance": 5.2,
+  "startingLocation": "Balatonmáriafürdő nyugat",
+  "arrivalLocation": "Balatonmáriafürdő kelet",
+  "name": "SMARTEQ  "
+ },
+ {
+  "id": 25,
+  "distance": 1.6,
+  "startingLocation": "Balatonmáriafürdő kelet",
+  "arrivalLocation": "Balatonfenyves nyugat",
+  "name": "RÁDIÓ 1"
+ },
+ {
+  "id": 26,
+  "distance": 1.8,
+  "startingLocation": "Balatonfenyves nyugat",
+  "arrivalLocation": "Balatonfenyves",
+  "name": "TRILAK"
+ },
+ {
+  "id": 27,
+  "distance": 4.6,
+  "startingLocation": "Balatonfenyves",
+  "arrivalLocation": "Alsóbélatelep",
+  "name": "GYERMELYI"
+ },
+ {
+  "id": 28,
+  "distance": 3.3,
+  "startingLocation": "Alsóbélatelep",
+  "arrivalLocation": "Fonyód",
+  "name": "NN"
+ },
+ {
+  "id": 29,
+  "distance": 3.2,
+  "startingLocation": "Fonyód",
+  "arrivalLocation": "Fonyódliget",
+  "name": "LAVAZZA"
+ },
+ {
+  "id": 30,
+  "distance": 5.3,
+  "startingLocation": "Fonyódliget",
+  "arrivalLocation": "Balatonboglár",
+  "name": "TOYOTA"
+ },
+ {
+  "id": 31,
+  "distance": 1.9,
+  "startingLocation": "Balatonboglár",
+  "arrivalLocation": "Balatohboglár kelet",
+  "name": "FILMIO"
+ },
+ {
+  "id": 32,
+  "distance": 2.5,
+  "startingLocation": "Balatohboglár kelet",
+  "arrivalLocation": "Balatonlelle nyugat",
+  "name": "HELL"
+ },
+ {
+  "id": 33,
+  "distance": 2,
+  "startingLocation": "Balatonlelle nyugat",
+  "arrivalLocation": "Balatonlelle kelet",
+  "name": "BRFK"
+ },
+ {
+  "id": 34,
+  "distance": 5.2,
+  "startingLocation": "Balatonlelle kelet",
+  "arrivalLocation": "Balatonszemes",
+  "name": "ECOFAMILY"
+ },
+ {
+  "id": 35,
+  "distance": 5,
+  "startingLocation": "Balatonszemes",
+  "arrivalLocation": "Balatonszárszó",
+  "name": "KATASZTRÓFAVÉDELEM"
+ },
+ {
+  "id": 36,
+  "distance": 3.9,
+  "startingLocation": "Balatonszárszó",
+  "arrivalLocation": "Balatonföldvár",
+  "name": ""
+ },
+ {
+  "id": 37,
+  "distance": 1.7,
+  "startingLocation": "Balatonföldvár",
+  "arrivalLocation": "Balatonföldvár strand",
+  "name": "MOM SPORT"
+ },
+ {
+  "id": 38,
+  "distance": 1.6,
+  "startingLocation": "Balatonföldvár strand",
+  "arrivalLocation": "Szántód",
+  "name": "ALDI"
+ },
+ {
+  "id": 39,
+  "distance": 4.3,
+  "startingLocation": "Szántód",
+  "arrivalLocation": "Zamárdi",
+  "name": "MOL NAGYON BALATON"
+ },
+ {
+  "id": 40,
+  "distance": 5.3,
+  "startingLocation": "Zamárdi",
+  "arrivalLocation": "Balatonszéplak",
+  "name": "ENERGOFISH"
+ },
+ {
+  "id": 41,
+  "distance": 2.2,
+  "startingLocation": "Balatonszéplak",
+  "arrivalLocation": "Siófok nyugat",
+  "name": "TESCO II"
+ },
+ {
+  "id": 42,
+  "distance": 6,
+  "startingLocation": "Siófok nyugat",
+  "arrivalLocation": "Siófok kelet",
+  "name": "DREHER"
+ },
+ {
+  "id": 43,
+  "distance": 4.5,
+  "startingLocation": "Siófok kelet",
+  "arrivalLocation": "Siófok-Sóstó",
+  "name": "DL"
+ },
+ {
+  "id": 44,
+  "distance": 3.3,
+  "startingLocation": "Siófok-Sóstó",
+  "arrivalLocation": "Balatonvilágos parti út",
+  "name": "MOM SPORT "
+ },
+ {
+  "id": 45,
+  "distance": 2.2,
+  "startingLocation": "Balatonvilágos parti út",
+  "arrivalLocation": "Balatonvilágos",
+  "name": ""
+ },
+ {
+  "id": 46,
+  "distance": 5,
+  "startingLocation": "Balatonvilágos",
+  "arrivalLocation": "Balatonakarattya",
+  "name": "LIPTON "
+ },
+ {
+  "id": 47,
+  "distance": 6.1,
+  "startingLocation": "Balatonakarattya",
+  "arrivalLocation": "Balatonkenese",
+  "name": "BWT"
+ },
+ {
+  "id": 48,
+  "distance": 5.5,
+  "startingLocation": "Balatonkenese",
+  "arrivalLocation": "Balatonfűzfő",
+  "name": "KNORR BREMSE"
+ },
+ {
+  "id": 49,
+  "distance": 6.4,
+  "startingLocation": "Balatonfűzfő",
+  "arrivalLocation": "Balatonalmádi",
+  "name": "MVM"
+ },
+ {
+  "id": 50,
+  "distance": 3,
+  "startingLocation": "Balatonalmádi",
+  "arrivalLocation": "Balatonalmádi strand",
+  "name": ""
+ },
+ {
+  "id": 51,
+  "distance": 5.6,
+  "startingLocation": "Balatonalmádi strand",
+  "arrivalLocation": "Alsóörs",
+  "name": "SAMSUNG EXPERIENCE STORE"
+ },
+ {
+  "id": 52,
+  "distance": 4.8,
+  "startingLocation": "Alsóörs",
+  "arrivalLocation": "Csopak",
+  "name": "BALATONI ÉLMÉNYPARK"
+ },
+ {
+  "id": 53,
+  "distance": 4.1,
+  "startingLocation": "Csopak",
+  "arrivalLocation": "Balatonfüred Probio",
+  "name": ""
+ },
+ {
+  "id": 54,
+  "distance": 3.8,
+  "startingLocation": "Balatonfüred Probio",
+  "arrivalLocation": "Balatonfüred befutó",
+  "name": "ANNAGORA AQUAPARK"
+ }
+]
