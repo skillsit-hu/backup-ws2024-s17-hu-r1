@@ -38,4 +38,5 @@ A feladat leírását ebben a repoban, a [WS2024_HU_TP_S17_R1_EN_1_2.pdf](https:
 #### Határidő
 
 A feladatok elkészítésének végső határideje: **2022.02.28., kedd, éjfél**
+
 Beadott megoldásnak azt tekintjük, amit a fenti időben a repodban és a netlify-os oldaladon találunk.
