@@ -3,6 +3,7 @@
 # WorldSkills Lyon 2024 nemzeti válogató, Skill 17 (Web Technologies)
 
 
+English version](https://github.com/skillsit-hu/ws2024-s17-hu-r1/blob/master/README_EN.md)
 ## 1. forduló
 
 Az alábbiakban a válogató első fordulójára vonatkozó legfontosabb információkat osztjuk meg.
