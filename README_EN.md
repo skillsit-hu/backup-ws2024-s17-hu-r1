@@ -41,3 +41,7 @@ Deadline for completion of your work: **Tuesday, 28/02/2022, midnight**
 
 The solution submitted will be the one found in your repo and on your netlify page at the above time.
 
+## Other Rounds
+- [WorldSkills Lyon 2024 Web Technology Hungarian National Competition - Round 1](https://github.com/skillsithu/ws2024-s17-hu-r1)
+- [WorldSkills Lyon 2024 Web Technology Hungarian National Competition - Round 2](https://github.com/skillsithu/ws2024-s17-hu-r2)
+
