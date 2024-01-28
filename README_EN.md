@@ -1,5 +1,3 @@
-"# ws2024-s17-hu-r1"
-
 # WorldSkills Lyon 2024 National Competition HU, Skill 17 (Web Technologies)
 
 
